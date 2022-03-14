@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/JSanchezIO/junit-testrail-reporter/compare/v1.0.1...v1.1.0) (2022-03-14)
+
+
+### Features
+
+* support suite and case names separated by underscores ([ea5e68a](https://github.com/JSanchezIO/junit-testrail-reporter/commit/ea5e68a70f4736f94648fe0d31f7291e02bef3c4))
+
 ## [1.0.1](https://github.com/JSanchezIO/junit-testrail-reporter/compare/v1.0.0...v1.0.1) (2021-05-02)
 
 
