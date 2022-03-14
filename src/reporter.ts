@@ -8,11 +8,11 @@ import { StatusMap } from './status-map';
 export class Reporter {
   private readonly _configuration: Required<JUnitTestRailReporter.Configuration>;
 
-  private readonly _testCaseIdRegex = new RegExp(/\bC(\d+)\b/g);
+  private readonly _testCaseIdRegex = /\bC(\d+)\b/g;
 
-  private readonly _testRailMetadataRegex = new RegExp(/(S\d+(?:\s|_)(C\d+\s?)+)/g);
+  private readonly _testRailMetadataRegex = /(S\d+(?:\s|_)(C\d+\s?)+)/g;
 
-  private readonly _testSuiteIdRegex = new RegExp(/\bS(\d+)\b/);
+  private readonly _testSuiteIdRegex = /\bS(\d+)\b/;
 
   private readonly _testResults = new Map<
     number,
