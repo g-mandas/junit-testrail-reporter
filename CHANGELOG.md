@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/JSanchezIO/junit-testrail-reporter/compare/v1.1.0...v1.1.1) (2022-03-31)
+
+
+### Bug Fixes
+
+* compile for es2019 ([2dccc94](https://github.com/JSanchezIO/junit-testrail-reporter/commit/2dccc942d9489b64fedb8b76acaa145bf0a748ee)), closes [#1](https://github.com/JSanchezIO/junit-testrail-reporter/issues/1)
+
 # [1.1.0](https://github.com/JSanchezIO/junit-testrail-reporter/compare/v1.0.1...v1.1.0) (2022-03-14)
 
 
