@@ -203,6 +203,7 @@ export class Reporter {
     const testSuiteResults = this._testResults.get(testSuiteId);
 
     if (!testSuiteResults?.distinctCaseIds.size || !testSuiteResults?.testCaseResults.length) {
+      logger.warning(`We were unable to find any test cases for ${testSuiteId}`);
       return;
     }
 
