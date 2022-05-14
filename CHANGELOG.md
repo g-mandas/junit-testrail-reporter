@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/JSanchezIO/junit-testrail-reporter/compare/v1.1.1...v1.2.0) (2022-05-14)
+
+
+### Features
+
+* add warning when suite is identified with no cases ([a87fcd0](https://github.com/JSanchezIO/junit-testrail-reporter/commit/a87fcd01dc77ff59ba79db609865fad61d06a3c1)), closes [#2](https://github.com/JSanchezIO/junit-testrail-reporter/issues/2)
+
 ## [1.1.1](https://github.com/JSanchezIO/junit-testrail-reporter/compare/v1.1.0...v1.1.1) (2022-03-31)
 
 
