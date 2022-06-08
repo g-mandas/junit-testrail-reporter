@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/JSanchezIO/junit-testrail-reporter/compare/v1.2.0...v1.3.0) (2022-06-08)
+
+
+### Features
+
+* add try catch to get login errors from testrails ([#3](https://github.com/JSanchezIO/junit-testrail-reporter/issues/3)) ([6b23bcf](https://github.com/JSanchezIO/junit-testrail-reporter/commit/6b23bcf40a59374ea6e8f692e4464a2433db139c))
+
 # [1.2.0](https://github.com/JSanchezIO/junit-testrail-reporter/compare/v1.1.1...v1.2.0) (2022-05-14)
 
 
