@@ -219,7 +219,7 @@ export class Reporter {
         results: testSuiteResults.testCaseResults,
       });
 
-      await api.closeRun(testRailRun.id);
+     // await api.closeRun(testRailRun.id);
 
       logger.info(
         `Successfully created and closed TestRail run R${testRailRun.id} for S${testSuiteId}!`
